@@ -2,11 +2,7 @@
   "name": "my-cypress-project",
   "version": "1.0.0",
   "description": "Casla Cypress tests",
-  "main": "casla.cy.js",
   "scripts": {
-    "cypress:open": "cypress open",
-    "cypress:run": "cypress run",
-    "start": "cypress casla.cy.js"
   },
   "keywords": [],
   "author": "",
