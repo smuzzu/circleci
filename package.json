@@ -5,7 +5,8 @@
   "main": "casla.cy.js",
   "scripts": {
     "cypress:open": "cypress open",
-    "cypress:run": "cypress run"
+    "cypress:run": "cypress run",
+    "start": "node casla.cy.js"
   },
   "keywords": [],
   "author": "",
