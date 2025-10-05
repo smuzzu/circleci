@@ -1,11 +1,11 @@
 {
-  "name": "my-cypress-project",
+  "name": "casla-cypress-project",
   "version": "1.0.0",
   "description": "Casla Cypress tests",
   "scripts": {
   },
   "keywords": [],
-  "author": "",
+  "author": "Sebastian",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.0.0" 
