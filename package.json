@@ -6,7 +6,7 @@
   "scripts": {
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
-    "start": "node casla.cy.js"
+    "start": "cypress casla.cy.js"
   },
   "keywords": [],
   "author": "",
